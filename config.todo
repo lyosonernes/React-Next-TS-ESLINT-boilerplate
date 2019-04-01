@@ -1,0 +1,68 @@
+Install: @critical
+  ✔ Node.js v11.12.0 @done
+  ✔ Visual Studio Code @done
+
+Visual Studio Code: @critical
+  ✔ Theme : Cobalt2 Theme Official @done
+  ✔ To-Do : Todo+ from Fabio Spampinato @done
+  ✔ Config: `https://github.com/wesbos/dotfiles/blob/master/vscode.js` @done
+  Extensions:
+    ✔ Babel JavaScript: Syntax Hightlight for ES6+ @high @done
+    ✔ Debugger for Chrome @high @done
+    ✔ ESLint @high @done
+    ✔ GraphQL: syntax highlighting, validation, and language features @high @done
+    ✔ GraphQL for VSCode: syntax highlighting, linting, auto-complete, and more @high @done
+    ✔ Jest: Use Facebook's Jest With Pleasure @high @done
+    ✔ npm: Running npm scripts defined in the package.json @high @done
+    ✔ Auto Close Tag: Automatically add HTML/XML close tag @low @done
+    ✔ Auto Rename Tag: Auto rename paired HTML/XML tag @low @done
+    ☐ Better Comments: Annotating with alert, informational, TODOs, and more! @low
+    ✔ Bookmarks: Mark lines and jump to them @low @done
+    ✔ Bracket Pair Colorizer: Colorizing matching brackets @low @done
+    ✔ Code Spell Checker: Spelling checker for source code @low @done
+    ✔ Color Highlight: Highlight web colors in your editor @low @done
+    ☐ Docker
+    ✔ DotENV: Support for dotenv file syntax @low @done
+    ✔ ES7 React/Redux/GraphQL/React-Native snippets @low @done
+    ✔ File Utils: Creating, duplicating, moving, renaming and deleting files and directories. @low @done
+    ✔ Import Cost: Display import/require package size in the editor @low @done
+    ✔ JS Refactor: Automated refactoring tools to smooth your development workflow @low @done
+    ✔ npm Intellisense: Autocompletes npm modules in import statements @low @done
+    ✔ Path Intellisense Autocompletes filenames @low @done
+    ✔ Rainbow Brackets: Color brackets, square brackets and squiggly brackets @low @done
+    ✔ snapshot-tools: React Helpful tools for snapshot testing @low @done
+    ✔ Text Pastry: Extend the power of multiple selections @low @done
+    ✔ vscode-styled-components: Syntax highlighting for styled-components @low @done
+
+ESLint (global): @critical
+  ✔ Config `https://github.com/wesbos/dotfiles/blob/master/.eslintrc` @done
+  ✔ Default: `https://eslint.org/docs/user-guide/getting-started` @done
+  ✔ AirBnB: `https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb` @done
+  ✔ Prettier: `https://github.com/prettier/eslint-config-prettier` @done
+
+React:
+  ☐ React Dev Tool
+  ☐ Apollo Client Devtools
+
+Font: @low
+  Operator Mono:
+    ✔ Free download link: http://robbers.cf/?i=2 @done
+    Ligatures:
+      ✔ Link : https://github.com/kiliman/operator-mono-lig @done
+      ✔ Add to settings.json in VS CODE : @done
+            `"editor.fontFamily": "Operator Mono Lig"`
+            `"editor.fontLigatures": true`
+  Firicico:
+    ✘ Link : `https://github.com/kosimst/Firicico` @cancelled
+  FiraCode:
+    ✘ Link : `https://github.com/tonsky/FiraCode` @cancelled
+
+Terminal: @low
+  Hyper.js:
+    ☐ Link: `https://hyper.is/`
+    Extensions :
+  Zsh:
+    ☐ Oh my Zsh: `https://ohmyz.sh/`
+    ☐ Theme: `https://github.com/agnoster/agnoster-zsh-theme`
+
+

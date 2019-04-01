@@ -1,0 +1,10 @@
+node_modules
+*.log
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
+.next/
+.build/

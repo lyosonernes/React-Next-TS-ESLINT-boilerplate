@@ -1,0 +1,31 @@
+Project Files:
+  ☐ .env
+  ✔ .eslintrc @done
+  ✔ .babelrc @done
+  ✔ .gitignore @done
+  ☐ README.md
+  ☐ Changelog.md
+  ☐ jest.config.js
+
+
+Useful Packages:
+  ✔ React.js : `https://facebook.github.io/create-react-app/docs/getting-started` @done
+  ✔ Next.js : `https://nextjs.org/learn/basics/getting-started` @done
+  ☐ Apollo client : `https://www.apollographql.com/docs/react/essentials/get-started`
+  ✔ Typescript `https://www.typescriptlang.org/` @done
+  ☐ Babel
+  ☐ Jest
+  ☐ Enzyme
+  ☐ ESLINT
+
+Start up:
+  ✔ Install Next.js + TS : @done
+      `https://www.manuel-schoebel.com/blog/nextjs-typescript-storybook-setup``
+      `https://medium.com/@miiny/setup-a-server-rendered-reactjs-application-with-next-js-typescript-sass-7cd3e7e79706`
+  ✔ Eslint with TS + Airbnb : @done(19-04-01 15:32)
+      `https://medium.com/@dors718/linting-your-react-typescript-project-with-eslint-and-prettier-2423170c3d42`
+      `https://gist.github.com/1natsu172/a65a4b45faed2bd3fa74b24163e4256e`
+      ✔ npm i -D eslint prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-config-airbnb eslint-plugin-import eslint-plugin-jest eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks @done(19-04-01 15:32)
+  ☐ Copy from `https://github.com/wesbos/Advanced-React/tree/master/sick-fits/frontend`
+  ☐ Remove useless packages + files
+  ☐
